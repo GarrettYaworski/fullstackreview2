@@ -1,0 +1,9 @@
+.product_card{
+  height: 30vh;
+  width: 30vw;
+  border: 1px solid black;
+}
+.products_container{
+  display: flex;
+  flex-wrap: wrap;
+}
